@@ -86,10 +86,10 @@ body {
     grid-column: 1 / 3;
 }
 #add, #eql, #sub, #mul, #div {
-    background:linear-gradient(to bottom right, yellow,yellow);
-    box-shadow: inset 1px 1px 3px yellow, inset 4px 4px 15px yellow, inset -1px -1px 3px yellow;
+    background:linear-gradient(to bottom right, rgba(238, 238, 20, 0.959),rgba(238, 238, 20, 0.959));
+    box-shadow: inset 1px 1px 3px rgba(238, 238, 20, 0.959), inset 4px 4px 15px rgba(238, 238, 20, 0.959), inset -1px -1px 3px rgba(238, 238, 20, 0.959);
     color: black;
-} 
+}
 .mode {
     position: absolute;
     cursor: pointer;
