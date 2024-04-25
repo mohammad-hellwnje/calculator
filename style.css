@@ -86,8 +86,8 @@ body {
     grid-column: 1 / 3;
 }
 #add, #eql, #sub, #mul, #div {
-    background:linear-gradient(to bottom right, rgba(238, 238, 20, 0.959),rgba(238, 238, 20, 0.959));
-    box-shadow: inset 1px 1px 3px rgba(238, 238, 20, 0.959), inset 4px 4px 15px rgba(238, 238, 20, 0.959), inset -1px -1px 3px rgba(238, 238, 20, 0.959);
+    background:linear-gradient(to bottom right, rgba(248, 204, 6, 0.986),rgba(248, 204, 6, 0.986));
+    box-shadow: inset 1px 1px 3px rgba(248, 204, 6, 0.986), inset 4px 4px 15px rgba(248, 204, 6, 0.986), inset -1px -1px 3px rgba(248, 204, 6, 0.986);
     color: black;
 }
 .mode {
